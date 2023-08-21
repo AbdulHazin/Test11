@@ -13,7 +13,7 @@ public class Account {
 	public Account(String name, double balance) {
 		this.name = name;
 		this.balance = balance;
-	}
+	}// New Comment for balance
 
 
 	// A "getter" method that simply returns the balance.
